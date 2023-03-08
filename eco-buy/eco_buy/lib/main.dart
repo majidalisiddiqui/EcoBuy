@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
     return Sizer(
       builder: (context, orientation, deviceType) => GetMaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Eco Buys',
+        title: 'Eco Buy Majid',
         //debugShowCheckedModeBanner: true,
         theme: ThemeData(
           primarySwatch: Colors.blue,
