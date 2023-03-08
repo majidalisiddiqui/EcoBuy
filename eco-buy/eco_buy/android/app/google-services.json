@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "388386903485",
+    "firebase_url": "https://eco-buy-a65a4-default-rtdb.firebaseio.com",
+    "project_id": "eco-buy-a65a4",
+    "storage_bucket": "eco-buy-a65a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388386903485:android:8085ca4f488c55b8672ed4",
+        "android_client_info": {
+          "package_name": "com.example.demo_script"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388386903485-c8221n6fi0la8gtesns7et6f4psbdjt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUhcKnKPIph5h9FZejBO-mJfWA4W9jGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388386903485-c8221n6fi0la8gtesns7et6f4psbdjt7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388386903485-19igas6hvt237927vdrsa75el1vcstgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecoBuy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388386903485:android:0b5c57e6858ffeef672ed4",
+        "android_client_info": {
+          "package_name": "com.example.eco_buy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388386903485-c8221n6fi0la8gtesns7et6f4psbdjt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUhcKnKPIph5h9FZejBO-mJfWA4W9jGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388386903485-c8221n6fi0la8gtesns7et6f4psbdjt7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388386903485-19igas6hvt237927vdrsa75el1vcstgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecoBuy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
